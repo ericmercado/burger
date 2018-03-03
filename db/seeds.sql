@@ -1,6 +1,6 @@
-INSERT INTO burgers (burger_name, devoured) VALUES ('Double Bacon Cheeseburger', false);
-INSERT INTO burgers (burger_name, devoured) VALUES ('Triple-Stacked Avocado Burger', false);
-INSERT INTO burgers (burger_name, devoured) VALUES ('Cali-Chicken Cheeseburger', false);
-INSERT INTO burgers (burger_name, devoured) VALUES ('Southern Style Veggie Burger', true);
-INSERT INTO burgers (burger_name, devoured) VALUES ('Spicy Pepper Jack Mushroom Burger', true);
-INSERT INTO burgers (burger_name, devoured) VALUES ('Tequila Lime Burger', true);
+INSERT INTO burgers (burger_name, devoured) VALUES ('THE DOINKSTER', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Triple-Stacked PHAT-ASS ICE-BOIGAH', true);
+INSERT INTO burgers (burger_name, devoured) VALUES ('PHAT-BOI', true);
+INSERT INTO burgers (burger_name, devoured) VALUES ('DINKIE STINKIE BINKIE BURGAH', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Real STINKY BOIGAH', true);
+INSERT INTO burgers (burger_name, devoured) VALUES ('TINKIE STINKIE BOIGAH', false);
